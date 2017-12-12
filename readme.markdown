@@ -17,6 +17,7 @@ This project is licensed under the [MIT license](https://github.com/topicusonder
 ### Table of Contents
 
  - [Installation](#installation)
+ - [Examples](#examples)
  - [Configuration](#configuration)
  - [Building a release](https://github.com/topicusonderwijs/m2e-settings/blob/master/readme.markdown#releasing)
 
@@ -40,6 +41,13 @@ Just open up the marketplace search and search for `M2E Settings`.
 - Fill in the Location field: "https://github.com/topicusonderwijs/m2e-settings/raw/master/site"
 - Click "OK"
 - Click "Next" ad infinitum
+
+## Examples
+
+1. Apache Wicket https://github.com/apache/wicket  
+    1.1. Settings project https://github.com/apache/wicket/tree/master/wicket-eclipse-settings  
+    1.2. Configuring `maven-eclipse-plugin` https://github.com/apache/wicket/blob/7f9079ac8385366ab05f2b676aa35a2460295516/pom.xml#L764  
+2. add yours...
 
 ## Configuration
 
