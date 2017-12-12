@@ -192,7 +192,7 @@ in Eclipse. Typically this is done by:
 
 ## Releasing
 
-If you are a developer of this project and have made some modifications use
+If you are a developer of this project and have made some modifications, use
 this guide to build a release to distribute it to the users.
 
 ### Building a release
